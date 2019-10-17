@@ -19,7 +19,7 @@ nav {
     align-items: center;
     min-height: 8vh;
     font-family: sans-serif;
-    background-image: linear-gradient(to right, #667eea 0%, #764ba2 100%);
+    background-color: black;
 }
 
 .logo {
@@ -70,7 +70,7 @@ nav {
         right: 0px;
         height: 92vh;
         top: 8vh;
-        background-image: linear-gradient(to right, #667eea 0%, #764ba2 100%);;
+        background-color: black;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -122,15 +122,18 @@ nav {
 /* -----------Banner------------ */
 
 #banner {
-    background-image: linear-gradient(to right, #667eea 0%, #764ba2 100%);
+    background-color: black;
     padding: 5%;
 }
+
+
 
 .input-group {
     margin-top: 5px;
 }
 
 #banner .btn-primary {
+
     background-color: red;
     border: none;
     margin-top: 5px;
@@ -225,7 +228,7 @@ nav {
 /* ----------------Footer------------- */
 
 #footer {
-    background-image: linear-gradient(to top, #9795f0 0%, #fbc8d4 100%);
+    background-color: black;
     color: #ffffff;
 }
 
